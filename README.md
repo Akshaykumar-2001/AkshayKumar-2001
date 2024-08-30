@@ -1,5 +1,25 @@
 ## Hello World !
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Akshay Kumar"
+        self.role = "Graduate"
+        self.language_spoken = ["en_US"]
+
+    def say_hi(self):
+        print("Have a nice day :) ")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
 <h2> 🚀 &nbsp; Languages and Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45"/>
