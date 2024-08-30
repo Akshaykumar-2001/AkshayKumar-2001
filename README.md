@@ -9,7 +9,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Akshay Kumar"
-        self.role = "Graduate"
+        self.role = "Student"
 
     def say_hi(self):
         print("Have a nice day :) ")
