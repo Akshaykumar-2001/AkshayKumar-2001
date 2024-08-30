@@ -10,7 +10,6 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Akshay Kumar"
         self.role = "Graduate"
-        self.language_spoken = ["en_US"]
 
     def say_hi(self):
         print("Have a nice day :) ")
