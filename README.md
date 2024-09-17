@@ -19,21 +19,21 @@ me.say_hi()
 
 - Languages 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
   </a>
 </p>
 
 - Web Dev
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,express,react,redux" />
   </a>
 </p>
 
 - Database
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
