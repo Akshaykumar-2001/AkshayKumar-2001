@@ -27,7 +27,7 @@ me.say_hi()
 - Web Dev
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,express,react,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,express,react,redux,postman" />
   </a>
 </p>
 
